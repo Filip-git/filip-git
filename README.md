@@ -1,6 +1,6 @@
 # 👨‍💻 About Me
 
-Engineer, currently based in Switzerland 🇨🇭 <br>  
+Engineer, based in Switzerland 🇨🇭 <br>  
 Currently working as a **ICT System Engineer** at VBSG (Verkehrsbetriebe St. Gallen), focusing on system infrastructure, secure networking, public transport IT systems and automation.
 
 
